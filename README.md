@@ -22,9 +22,9 @@ SQL
 
 ## Project File
 
-You can download the Power BI file from below:
+Download the Power BI file here:
 
-GrofastReport.pbix
+[Download Power BI File](https://github.com/saurabh9322/Grofast-Sales-Dashboard/blob/main/GrofastReport.pbix)
 
 ## Author
 Saurabh
