@@ -20,5 +20,11 @@ SQL
 
 ![Dashboard](growfastpage2.png)
 
+## Project File
+
+You can download the Power BI file from below:
+
+GrofastReport.pbix
+
 ## Author
 Saurabh
