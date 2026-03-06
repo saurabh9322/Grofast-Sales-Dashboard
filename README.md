@@ -13,5 +13,11 @@ SQL
 - Item Category Distribution
 - Customer Rating Analysis
 
+## Dashboard Preview
+
+![Dashboard](Screenshot 2026-03-06 213754.png)
+
+![Dashboard](Screenshot 2026-03-06 213825.png)
+
 ## Author
 Saurabh
