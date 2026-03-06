@@ -13,11 +13,12 @@ SQL
 - Item Category Distribution
 - Customer Rating Analysis
 
+
 ## Dashboard Preview
 
-growfastpage1.png
-growfastpage2.png
+![Dashboard](growfastpage1.png)
 
+![Dashboard](growfastpage2.png)
 
 ## Author
 Saurabh
